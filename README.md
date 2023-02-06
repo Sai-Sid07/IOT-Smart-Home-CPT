@@ -30,10 +30,10 @@ Various IoT devices like Lamp, AC, Automatic Door, Motion Detector, Smart Window
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Password:** admin  
 
 #### System > Desktop > Web Browser
-![Alt text](https://www.linkpicture.com/q/img-1.jfif "Image 1")  
+![1](https://user-images.githubusercontent.com/83492132/216995047-9c045df4-ab00-4481-98c5-e011d640632d.jpg) 
   
 #### Enter either the Server or Client URL and their credentials which are provided above
-![Alt text](https://www.linkpicture.com/q/img-2.jfif "Image 2")  
+![2](https://user-images.githubusercontent.com/83492132/216995132-83c80052-fe73-48ec-982f-a952e6f12e8a.jpg)  
   
 #### Interface where IOT Devices can be controlled. The conditions tab allows you to modify the trigger points for each devices and the options can be tweaked for various functionality.
-![Alt text](https://www.linkpicture.com/q/img-3.jfif "Image 3")
+![3](https://user-images.githubusercontent.com/83492132/216995176-970131d4-1f1a-4753-a833-ee6c9be0e2af.jpg)

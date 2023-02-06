@@ -22,7 +22,7 @@ Various IoT devices like Lamp, AC, Automatic Door, Motion Detector, Smart Window
 
 
 ### Configuration Steps in Cisco Packet Tracer
-* **DNS Details:**
+* **DNS Details:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Server:** www.server.com  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Client:** www.home.com
 * **Admin Credentials:**  
